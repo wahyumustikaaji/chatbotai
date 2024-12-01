@@ -8,12 +8,11 @@ chatbotai adalah chatbot cerdas yang dibangun menggunakan Google Gemini API. Dir
 
 - **Pemahaman Bahasa Alami:** Menggunakan Gemini untuk memahami dan merespons berbagai pertanyaan dengan akurat.
 - **Integrasi Google Search:** Mencari informasi terbaru dari Google untuk memberikan jawaban yang paling relevan.
-- **Personalisasi:** Menyimpan preferensi pengguna untuk memberikan pengalaman yang lebih disesuaikan.
-- **Pembelajaran Kontinu:** Terus belajar dari setiap interaksi untuk meningkatkan kinerja.
+- **image-to-text:** Membaca gambar untuk dianalisis oleh Google Gemini.
 
 **Cara Penggunaan**
 
-Untuk memulai percakapan, cukup kunjungi [link ke aplikasi web] atau kirim pesan ke akun [platform messaging].
+Untuk memulai percakapan, cukup kunjungi https://chatbotai-tan.vercel.app/ 
 
 **Contoh Percakapan**
 
@@ -23,8 +22,6 @@ Untuk memulai percakapan, cukup kunjungi [link ke aplikasi web] atau kirim pesan
 **Teknologi**
 
 - **Google Gemini API:** Untuk pemrosesan bahasa alami.
-- **Flask:** Sebagai framework web.
-- **SQLite:** Untuk menyimpan data percakapan.
 
 **Kontribusi**
 
